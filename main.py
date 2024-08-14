@@ -1,3 +1,10 @@
 #текст примера
 abce = 5
-bcad = 6
+bcde = 6
+
+
+if abce > bcde:
+    print(f"результат {abce}")
+else:
+    print(f"второй результат {bcde}")
+
