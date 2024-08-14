@@ -8,3 +8,4 @@ if abce > bcde:
 else:
     print(f"второй результат {bcde}")
 
+print ("сообщение для удаления")
